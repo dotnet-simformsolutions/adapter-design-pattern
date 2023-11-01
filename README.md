@@ -18,18 +18,18 @@
 
   - Structure for XML Data
     
-      ![image](https://github.com/jil1710/readmedemo/assets/125335932/d2ee4dfd-8d0c-4ffe-b390-a2654b2fbc16)
+      [![image](https://github.com/dotnet-simformsolutions/adapter-design-pattern/blob/master/images/272886980-d2ee4dfd-8d0c-4ffe-b390-a2654b2fbc16.png)
 
   - Structure For JSON Data
     
-      ![image](https://github.com/jil1710/readmedemo/assets/125335932/ef3d2477-c71e-4335-8da9-f4de6e1edce4)
+      [![image](https://github.com/dotnet-simformsolutions/adapter-design-pattern/blob/master/images/272886690-ef3d2477-c71e-4335-8da9-f4de6e1edce4.png)
 
   - XML To JSON Data Transform Adapter
     
-      ![image](https://github.com/jil1710/readmedemo/assets/125335932/bddeb6ed-daf2-464f-aacc-0f2133bfb246)
+      ![image](https://github.com/dotnet-simformsolutions/adapter-design-pattern/blob/master/images/272886870-bddeb6ed-daf2-464f-aacc-0f2133bfb246.png)
 
   - Use The Adapter 
 
-    ![image](https://github.com/jil1710/readmedemo/assets/125335932/0fe2899e-3366-4fab-b7fc-373e70369ca5)
+    [![image](https://github.com/dotnet-simformsolutions/adapter-design-pattern/blob/master/images/272887174-0fe2899e-3366-4fab-b7fc-373e70369ca5.png)
 
 
